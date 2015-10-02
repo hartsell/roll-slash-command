@@ -1,0 +1,14 @@
+{
+  "name": "roll-slash-command",
+  "version": "1.0.0",
+  "description": "A slash command to roll some dice.",
+  "main": "server.js",
+  "author": "Trevor Hartsell",
+  "license": "MIT",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
